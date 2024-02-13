@@ -25,7 +25,7 @@ const Projects = () => {
               <b>Tools used:</b> ReactJS, Redux, TailwindCSS
             </p>
             <a
-              href="https://github.com/hardiknahata/CS5610-DoorDelights-Frontend"
+              href="https://damalemaitreyee.github.io/youtube-clone/"
               className="text-white "
             >
               See Project
@@ -59,7 +59,7 @@ const Projects = () => {
               <b>Tools used:</b> ReactJS, Redux, TailwindCSS
             </p>
             <a
-              href="https://github.com/hardiknahata/CS5610-DoorDelights-Frontend"
+              href="https://github.com/damalemaitreyee/react-app"
               className="text-white "
             >
               See Project
