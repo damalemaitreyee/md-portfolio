@@ -22,7 +22,7 @@ const Contact = () => {
           <div>
             <img src="https://img.icons8.com/bubbles/100/000000/new-post.png" />
           </div>
-          <div class="contact-info">
+          <div>
             <h1>Email</h1>
             <h2>maitreyee8818@gmail.com</h2>
             <h2>mxd8520@mavs.edu</h2>
